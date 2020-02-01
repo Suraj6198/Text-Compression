@@ -1,1 +1,1 @@
-#Text Compression
+Text Compression
